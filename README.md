@@ -13,5 +13,5 @@ Then install plugins via external plugin manager.
 Go to the releases tab and download the .jar files that you require
 Then navigate to C:/Users/YOURUSERHERE/.openosrs/plugins and paste the .jars 
 
-#My Discord:
+# My Discord:
 Anarchise#7778
