@@ -1,4 +1,5 @@
 # Anarchise' OpenOSRS Plugins
+Vorkath and Zulrah newly added to the plugin repo!
 
 # How to use:
 
