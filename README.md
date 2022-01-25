@@ -4,8 +4,8 @@ Vorkath and Zulrah newly added to the plugin repo!
 # How to use:
 
 First, add my github repository to OpenOSRS:
-Owner: # anarchise
-Repository: # aplugins
+Owner: anarchise
+Repository: aplugins
 Then install plugins via external plugin manager.
 
 # Alternatively:
