@@ -1,0 +1,32 @@
+-keep,allowobfuscation class * extends net.runelite.client.plugins.Plugin { *; }
+-keep,allowobfuscation class * extends net.runelite.client.ui.overlay.OverlayPanel { *; }
+-keep,allowobfuscation class * extends net.runelite.client.ui.overlay.Overlay { *; }
+-keep,allowobfuscation class * extends net.runelite.client.plugins.azulrah.AZulrahPlugin { *; }
+#-keepclassmembers class * extends net.runelite.client.config.Config { *; }
+-keep class net.runelite.client.config.Config { *; }
+#-keepclassmembers class * extends net.runelite.client.plugins.azulrah.AZulrahConfig { *; }
+-keep class net.runelite.client.plugins.azulrah.AZulrahConfig { *; }
+#-keep interface net.runelite.client.plugins.azulrah.AZulrahConfig { *; }
+-keep class net.runelite.client.plugins.azulrah.AZulrahHotkeyListener { *; }
+-keep class net.runelite.client.plugins.azulrah.AZulrahOverlay { *; }
+-keep class net.runelite.client.plugins.azulrah.Constants { *; }
+-keep class net.runelite.client.plugins.azulrah.ImagePanelComponent { *; }
+-keep class net.runelite.client.plugins.azulrah.OverlayUtils { *; }
+-keep class net.runelite.client.plugins.azulrah.PhaseOverlay { *; }
+-keep class net.runelite.client.plugins.azulrah.PrayerHelperOverlay { *; }
+-keep class net.runelite.client.plugins.azulrah.PrayerMarkerOverlay { *; }
+-keep class net.runelite.client.plugins.azulrah.SceneOverlay { *; }
+-keep class net.runelite.client.plugins.azulrah.TextComponent { *; }
+-keep class net.runelite.client.plugins.azulrah.Victim { *; }
+-keep class net.runelite.client.plugins.azulrah.ZulrahAttributes { *; }
+-keep class net.runelite.client.plugins.azulrah.ZulrahData { *; }
+-keep class net.runelite.client.plugins.azulrah.ZulrahImageManager { *; }
+-keep class net.runelite.client.plugins.azulrah.ZulrahNpc { *; }
+-keep class net.runelite.client.plugins.azulrah.ZulrahPhase { *; }
+-keep class net.runelite.client.plugins.azulrah.AZulrahState { *; }
+-keep class net.runelite.client.plugins.azulrah.PrayerRestoreType { *; }
+-keep class net.runelite.client.plugins.azulrah.RotationType { *; }
+-keep class net.runelite.client.plugins.azulrah.StandLocation { *; }
+-keep class net.runelite.client.plugins.azulrah.ZulrahLocation { *; }
+-keep class net.runelite.client.plugins.azulrah.ZulrahType { *; }
+-keepclassmembernames class * { java.lang.Class class$(java.lang.String); java.lang.Class class$(java.lang.String, boolean); }
