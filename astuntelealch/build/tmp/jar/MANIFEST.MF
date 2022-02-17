@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Plugin-Version: 1.0.8
+Plugin-Id: astuntelealch-plugin
+Plugin-Provider: Anarchise
+Plugin-Dependencies: autils-plugin
+Plugin-Description: Anarchise' Stun/Tele Alcher.
+Plugin-License: 3-Clause BSD License
+

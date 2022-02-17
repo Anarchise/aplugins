@@ -1,0 +1,11 @@
+net/runelite/client/plugins/askiller/ASkillerOverlay.java
+ net.runelite.client.plugins.askiller.ASkillerOverlay
+net/runelite/client/plugins/askiller/ASkillerPlugin.java
+ net.runelite.client.plugins.askiller.ASkillerPlugin
+ net.runelite.client.plugins.askiller.ASkillerPlugin$1
+net/runelite/client/plugins/askiller/ASkillerType.java
+ net.runelite.client.plugins.askiller.ASkillerType
+net/runelite/client/plugins/askiller/ASkillerConfiguration.java
+ net.runelite.client.plugins.askiller.ASkillerConfiguration
+net/runelite/client/plugins/askiller/ASkillerState.java
+ net.runelite.client.plugins.askiller.ASkillerState

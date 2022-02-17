@@ -1,0 +1,23 @@
+
+package net.runelite.client.plugins.astuntelealch;
+
+public enum AStunTeleAlchState
+{
+	NULL_PLAYER,
+	ACTION_FIRST,
+	ACTION,
+	ACTION_2,
+	OPEN_BANK,
+	DEPOSIT_ITEMS,
+	TELEPORTING,
+	WITHDRAW_TOOL,
+	WITHDRAW_ITEMS,
+	CLOSE_BANK,
+	WALKING,
+	ALCHING,
+	STUNNING,
+	CRAFTING_RUNES,
+	USE_PORTAL,
+	ANIMATING,
+	NOT_SURE;
+}
