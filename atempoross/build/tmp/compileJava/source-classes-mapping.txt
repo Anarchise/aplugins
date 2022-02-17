@@ -1,0 +1,11 @@
+net/runelite/client/plugins/abarbfisher/ATemporossConfiguration.java
+ net.runelite.client.plugins.abarbfisher.ATemporossConfiguration
+net/runelite/client/plugins/abarbfisher/ReflectBreakHandler.java
+ net.runelite.client.plugins.abarbfisher.ReflectBreakHandler
+net/runelite/client/plugins/abarbfisher/ATemporossPlugin.java
+ net.runelite.client.plugins.abarbfisher.ATemporossPlugin
+ net.runelite.client.plugins.abarbfisher.ATemporossPlugin$1
+net/runelite/client/plugins/abarbfisher/ATemporossOverlay.java
+ net.runelite.client.plugins.abarbfisher.ATemporossOverlay
+net/runelite/client/plugins/abarbfisher/ATemporossState.java
+ net.runelite.client.plugins.abarbfisher.ATemporossState
