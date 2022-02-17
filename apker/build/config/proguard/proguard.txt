@@ -1,0 +1,8 @@
+-keep,allowobfuscation class * extends net.runelite.client.plugins.Plugin { *; }
+-keep,allowobfuscation class * extends net.runelite.client.ui.overlay.OverlayPanel { *; }
+-keep,allowobfuscation class * extends net.runelite.client.ui.overlay.Overlay { *; }
+-keep,allowobfuscation class * extends net.runelite.client.plugins.apker.PkToolsPlugin { *; }
+-keepclassmembers class * extends net.runelite.client.config.Config { *; }
+-keepclassmembers class * extends net.runelite.client.plugins.apker.PkToolsConfig { *; }
+-keep interface net.runelite.client.plugins.apker.PkToolsConfig { *; }
+-keepclassmembernames class * { java.lang.Class class$(java.lang.String); java.lang.Class class$(java.lang.String, boolean); }
