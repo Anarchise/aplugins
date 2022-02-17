@@ -1,0 +1,6 @@
+net/runelite/client/plugins/afood/AFoodConfig.java
+ net.runelite.client.plugins.afood.AFoodConfig
+net/runelite/client/plugins/afood/AFoodPlugin.java
+ net.runelite.client.plugins.afood.AFoodPlugin
+net/runelite/client/plugins/afood/PrayerRestoreType.java
+ net.runelite.client.plugins.afood.PrayerRestoreType

@@ -1,0 +1,13 @@
+net/runelite/client/plugins/afighter/AFighterType.java
+ net.runelite.client.plugins.afighter.AFighterType
+net/runelite/client/plugins/afighter/AFighterConfig.java
+ net.runelite.client.plugins.afighter.AFighterConfig
+net/runelite/client/plugins/afighter/ReflectBreakHandler.java
+ net.runelite.client.plugins.afighter.ReflectBreakHandler
+net/runelite/client/plugins/afighter/AFighterPlugin.java
+ net.runelite.client.plugins.afighter.AFighterPlugin
+ net.runelite.client.plugins.afighter.AFighterPlugin$1
+net/runelite/client/plugins/afighter/AFighterOverlay.java
+ net.runelite.client.plugins.afighter.AFighterOverlay
+net/runelite/client/plugins/afighter/AFighterState.java
+ net.runelite.client.plugins.afighter.AFighterState
