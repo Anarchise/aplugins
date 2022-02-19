@@ -16,4 +16,11 @@ Then navigate to C:/Users/YOURUSERHERE/.openosrs/plugins and paste the .jars
 # Discord Server:
 https://discord.com/invite/KwJnhKQJVc
  OR to contact me privatel, Anarchise#7778
+ 
+ # Credits / Code Used
+ 
+ Illumine - https://github.com/illumineawake/illu-plugins
+ Oiuyo - https://github.com/Oiuyo/Oli-plugins
+ Owain - https://github.com/Owain94/OpenOSRS-external-plugins
+ 
 
