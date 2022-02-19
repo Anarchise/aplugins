@@ -19,8 +19,8 @@ https://discord.com/invite/KwJnhKQJVc
  
  # Credits / Code Used
  
- Illumine - https://github.com/illumineawake/illu-plugins
- Oiuyo - https://github.com/Oiuyo/Oli-plugins
- Owain - https://github.com/Owain94/OpenOSRS-external-plugins
+ Illumine - https://github.com/illumineawake/illu-plugins																																																																																																														
+ Oiuyo - https://github.com/Oiuyo/Oli-plugins																																																																																																														
+ Owain - https://github.com/Owain94/OpenOSRS-external-plugins																																																																																																														
  
 
