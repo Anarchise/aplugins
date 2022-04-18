@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Plugin-Version: 1.0.8
-Plugin-Id: anarchiserunedragonplugin-plugin
-Plugin-Provider: Anarchise
-Plugin-Dependencies: autils-plugin
-Plugin-Description: Auto Rune Dragons.
-Plugin-License: 3-Clause BSD License
-
