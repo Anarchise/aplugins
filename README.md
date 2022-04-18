@@ -19,8 +19,7 @@ Or to contact me privately, Anarchise#7778
  
  # Credits / Code Used
  
- Illumine - https://github.com/illumineawake/illu-plugins  
- Oiuyo - https://github.com/Oiuyo/Oli-plugins  
- Owain - https://github.com/Owain94/OpenOSRS-external-plugins																																																																																																														
+ Illumine (Overlay) - https://github.com/illumineawake/illu-plugins  
+ Owain (Client/api) - https://github.com/Owain94/OpenOSRS-external-plugins																																																																																																														
  
 
