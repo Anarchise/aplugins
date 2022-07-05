@@ -3,15 +3,14 @@ Source codes for all plugins are now available. If you use it, leave credit to m
 
 # How to use:
 
-First, add my github repository to OpenOSRS:  
+Add my GitHub repository to OpenOSRS:  
 Owner: anarchise  
-Repository: aplugins  
-Then install plugins via external plugin manager.  
+Name: aplugins 
 
 # Alternatively:
 
 Go to the releases tab and download the .jar files that you require  
-Then navigate to C:/Users/YOURUSERHERE/.openosrs/plugins and paste the .jars  
+Then navigate to "%userprofile%/.openosrs/plugins" and paste the .jars  
 
 # Discord Server:
 https://discord.com/invite/KwJnhKQJVc  
