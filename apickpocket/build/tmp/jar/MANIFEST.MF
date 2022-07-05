@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Plugin-Version: 1.0.3
-Plugin-Id: apickpocket-plugin
-Plugin-Provider: Anarchise
-Plugin-Dependencies: autils-plugin
-Plugin-Description: Anarchise' Pickpocket Plugin
-Plugin-License: 3-Clause BSD License
-
