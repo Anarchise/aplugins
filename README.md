@@ -1,5 +1,5 @@
 # Anarchise' OpenOSRS Plugins
-Source codes for all plugins are now available. If you use it, leave credit to me!
+
 
 # How to use:
 
