@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Plugin-Version: 1.0.4
-Plugin-Id: autils-plugin
-Plugin-Provider: Anarchise
-Plugin-Description: Tools required for APlugins to function.
-Plugin-License: 3-Clause BSD License
-
