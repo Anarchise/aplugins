@@ -1,24 +1,8 @@
-# Anarchise' OpenOSRS Plugins
+# Anarchise' OldSchool RuneScape Bot
 
+# Usage:
+The old style of external plugins are now outdated. 
+Our bots are now ran on a PRIVATE automation fork of Runelite.
+Access to the bot can ONLY purchased privately by contacting me on Discord
 
-# How to use:
-
-Add my GitHub repository to OpenOSRS:  
-Owner: anarchise  
-Name: aplugins 
-
-# Alternatively:
-
-Go to the releases tab and download the .jar files that you require  
-Then navigate to "%userprofile%/.openosrs/plugins" and paste the .jars  
-
-# Discord Server:
-https://discord.com/invite/KwJnhKQJVc  
-Or to contact me privately, Anarchise#7778
- 
- # Credits / Code Used
- 
- Illumine (Overlay) - https://github.com/illumineawake/illu-plugins  
- Owain (Client/api) - https://github.com/Owain94/OpenOSRS-external-plugins																																																																																																														
- 
-
+# Anarchise#7778
